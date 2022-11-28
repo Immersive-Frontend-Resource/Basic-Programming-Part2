@@ -1,6 +1,6 @@
 # Basic-Programming-Part2
 
-Tugas Alta Immersive Frontend Fundamental Programming (Branching, Looping & Function)
+Tugas Alta Immersive Frontend Fundamental Programming (Function, Branching, Data Type, & Expression)
 
 ## Tata Cara Pengerjakan Tugas
 

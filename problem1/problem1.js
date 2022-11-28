@@ -1,7 +1,7 @@
+function studentScore(number) {
+  // Your Code Here
+}
+
 // input
-let studentScore = 80;
-
-// Process: Your Solution Code Here
-
-// Output
-// Nilai A
+let score = 80;
+console.log(studentScore(score)); // Nilai A

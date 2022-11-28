@@ -1,5 +1,6 @@
-// input
-let input1 = 6;
-let input2 = 20;
+function factorOfNumber(number) {
+  // Your Code Here
+}
 
-// Your Code Here
+console.log(factorOfNumber(6));
+console.log(factorOfNumber(20));
